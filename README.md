@@ -2,8 +2,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=BB0000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Juan+Jos%C3%A9;+Systems+Engineer;Build+the+future+with+code;Always+Learning+new+things" alt="Typing SVG" />
 </div>
 
-
-
 <!--
 **juanjopd/juanjopd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -11,7 +9,28 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
-<br><br><br><br><br><br><br><br>
+I am a Systems Engineer and Full Stack Developer passionate about building modern web applications and solving real-world problems through technology.
+
+💻 I work mainly with  
+JavaScript • React • Next.js • Node.js • PostgreSQL
+
+🌱 Currently learning  
+Advanced backend development  
+Scalable system architectures  
+
+👯 Open to collaborate on  
+Open source projects  
+Web applications and dashboards  
+
+💬 Ask me about  
+JavaScript, React, Next.js, Node.js, and web development
+
+🎧 Outside of tech  
+I enjoy listening to music, exploring technology trends, and spending time outdoors.
+
+📫 Contact me  
+jjuanjopayand@gmail.com
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 <div align="center">
 <br />
@@ -41,3 +60,7 @@
 
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=juanjopd&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjopd&layout=compact&theme=dark&bg_color=0A0A0A" alt="juanjopd Top Languages"/>
+</div>
